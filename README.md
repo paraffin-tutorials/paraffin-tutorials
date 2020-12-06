@@ -10,7 +10,6 @@
 ### Contact me:
 
 
-[<img align="left" alt="parsa | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="parsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="parsa | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
 [<img align="left" alt="parsa | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
@@ -37,11 +36,10 @@
 
 ![DM me Discord](https://discord.c99.nl/widget/theme-2/490519932292038659.png)
     
-[github]: https://github.com/hadiazt
-[Instagram]: https://www.instagram.com/hadi._.azt/
-[Telegram]: https://t.me/hadiazt
-[Mail]: mailto:azarihadi81@gmail.com
-[discord]: https://discord.bio/p/hadiaz
+[github]: https://github.com/ParsaFiroozi
+[Instagram]: https://www.instagram.com/parsa._.firoozi/
+[Mail]: mailto:parsa.firoozi20@gmail.com
+[discord]: https://discord.bio/p/parsaeliteteam
 
 ---
 
@@ -49,7 +47,7 @@
 <br>
 <br>
 Visitors<br>
-<img src="https://profile-counter.glitch.me/hadiazt/count.svg" />
+<img src="https://profile-counter.glitch.me/parsa.firoozi20/count.svg" />
 </h3>
 <br>
 <br>  
