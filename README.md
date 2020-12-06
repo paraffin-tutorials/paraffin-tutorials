@@ -1,18 +1,19 @@
-### Hi there 👋
+### Hi I am Parsa 👋
 
-## I'm Hadi
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning  Node.js
-- ⚡ Fun fact: I'm a Gamer, K-POP
-- 👯 Discord : -its'Hadi.Az'#1405
+## I'm Parsa
+- 📟 I’m currently working on best economy bot.
+- 🔬 I’m currently learning  Node.js
+- 😅 Fun fact: I am Graphic Designer
+- 💻 Discord : Parsa '🎄'#6000
 
 
 ### Contact me:
 
-[<img align="left" alt="hadi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="hadi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="hadi | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
-[<img align="left" alt="hadi | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+[<img align="left" alt="parsa | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="parsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="parsa | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
+[<img align="left" alt="parsa | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
