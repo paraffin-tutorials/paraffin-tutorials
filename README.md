@@ -30,11 +30,11 @@
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaFiroozi&layout=compact&theme=radical)
 
 ---
 
-![DM me Discord](https://discord.c99.nl/widget/theme-2/490519932292038659.png)
+![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
     
 [github]: https://github.com/ParsaFiroozi
 [Instagram]: https://www.instagram.com/parsa._.firoozi/
