@@ -1,7 +1,7 @@
 ### Hi I am Parsa 👋
 
 ## I'm Parsa
-- 📟 I’m currently working on best economy bot.
+- 📟 I’m currently working on cool idea.
 - 🔬 I’m currently learning  Node.js
 - 😅 Fun fact: I am Graphic Designer
 - 💻 Discord : Parsa '🎄'#6000
@@ -18,6 +18,7 @@
 
 ### My Skills:
 
+[<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 [<img align="left" alt="HTML" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
