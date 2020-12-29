@@ -4,7 +4,7 @@
 - 📟 I’m currently working on cool idea.
 - 🔬 I’m currently learning  Node.js
 - 😅 Fun fact: I am Graphic Designer
-- 💻 Discord : Parsa '🎄'#6000
+- 💻 Discord : Parsa '🪔'#6000
 
 
 ### Contact me:
