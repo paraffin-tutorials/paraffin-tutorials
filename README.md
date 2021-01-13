@@ -3,12 +3,10 @@
 - 📟 I’m currently working on cool idea.
 - 🔬 I’m currently learning  Node.js
 - 😅 Fun fact: I am Graphic Designer
-- 💻 Discord : Parsa '🪔'#6000
+- 💻 Discord : Parsa#4328
 
 
 ### Contact me:
-
-<img width="270" height="420px" align="right" alt="Spotify_Player" src="https://spotify-github-profile.vercel.app/api/view?uid=5lfNCTJzTJBzwWxyWQQZJL&cover_image=true&theme=default">
 
 [<img align="left" alt="parsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="parsa | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
