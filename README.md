@@ -1,9 +1,6 @@
-## Hi I am Parsa 👋
+## Hi We Are Paraffin 👋
 
-- 📟 I’m currently working on cool idea.
-- 🔬 I’m currently learning  Node.js
-- 😅 Fun fact: I am Graphic Designer
-- 💻 Discord : Parsa#4328
+💡 We Are currently working on cool idea.
 
 
 ### Contact me:
@@ -13,36 +10,27 @@
 [<img align="left" alt="parsa | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
-
-### My Skills:
-
-[<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
-[<img align="left" alt="HTML" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-
 <br />
 
 <h2>Want to support my team ?</h2>
 
-<a href="https://idpay.ir/donate-paraffin-team"><img src="https://img.buymeacoffee.com/button-api/?text=Donate Me&slug=BoyCode&button_colour=b33232&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://idpay.ir/donate-paraffin-team"><img src="https://img.buymeacoffee.com/button-api/?text=Donate &slug=BoyCode&button_colour=b33232&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ---
 
-![ParsaFiroozi's github stats](https://github-readme-stats.vercel.app/api?username=ParsaFiroozi&show_icons=true&theme=radical)
+![ParsaFiroozi's github stats](https://github-readme-stats.vercel.app/api?username=Paraffin-Team&show_icons=true&theme=radical)
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaFiroozi&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paraffin-Team&layout=compact&theme=radical)
 
 ---
 
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
     
-[github]: https://github.com/ParsaFiroozi
-[Instagram]: https://www.instagram.com/parsa._.firoozi/
-[Mail]: mailto:parsa.firoozi20@gmail.com
-[discord]: https://discord.bio/p/parsaeliteteam
+[github]: https://github.com/Paraffin-Team
+[Instagram]: https://www.instagram.com/paraffin.team/
+[Mail]: mailto:paraffin-team@gmail.com
 
 ---
 
