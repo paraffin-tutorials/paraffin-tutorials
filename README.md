@@ -11,7 +11,7 @@
 <br />
 <br />
 
-<h2>Want to support my team ?</h2>
+<h2>Do you want to support paraffin team ?</h2>
 
 <a href="https://idpay.ir/donate-paraffin-team"><img src="https://img.buymeacoffee.com/button-api/?text=Donate &slug=BoyCode&button_colour=b33232&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
