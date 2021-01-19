@@ -24,8 +24,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paraffin-Team&layout=compact&theme=radical)
 
 ---
-
-![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
     
 [github]: https://github.com/Paraffin-Team
 [Instagram]: https://www.instagram.com/paraffin.team/
