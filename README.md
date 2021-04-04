@@ -29,7 +29,6 @@
 
 <h3 align="center"> 
 <br>
-<br>
 Visitors<br>
 <img src="https://profile-counter.glitch.me/parsa.firoozi20/count.svg" />
 </h3>
