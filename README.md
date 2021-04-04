@@ -17,9 +17,7 @@
 
 ---
 
-![ParsaFiroozi's github stats](https://github-readme-stats.vercel.app/api?username=Paraffin-Team&show_icons=true&theme=radical)
-
----
+![[Paraffin's github stats](https://github-readme-stats.vercel.app/api?username=Paraffin-Team&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paraffin-Team&layout=compact&theme=radical)
 
