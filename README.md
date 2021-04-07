@@ -1,15 +1,7 @@
-## Hi We Are Paraffin 👋
+## 👋 Hi We Are Paraffin 
 
 💡 We Are currently working on cool idea.
 
-
-### Contact me:
-
-[<img align="left" alt="Paraffin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Paraffin | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
-
-<br />
-<br />
 
 <h2>Do you want to support paraffin team ?</h2>
 
@@ -36,6 +28,6 @@ Visitors<br>
 <br>  
 
 <br>  
-**👑 Owner** : 
+## 👑 Owner : 
 <br>  
 https://discord.c99.nl/widget/theme-1/488958506280550402.png
