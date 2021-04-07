@@ -19,6 +19,13 @@
 
 ---
 
+## 👑 Owner : 
+<br>  
+https://discord.c99.nl/widget/theme-1/488958506280550402.png
+
+--- 
+
+
 <h3 align="center"> 
 <br>
 Visitors<br>
@@ -28,6 +35,4 @@ Visitors<br>
 <br>  
 
 <br>  
-## 👑 Owner : 
-<br>  
-https://discord.c99.nl/widget/theme-1/488958506280550402.png
+
