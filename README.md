@@ -22,7 +22,7 @@
 
 <h2> 👑 Owner : </h2>
 <br>  
-https://discord.c99.nl/widget/theme-1/488958506280550402.png
+![owner](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
 
 --- 
 
