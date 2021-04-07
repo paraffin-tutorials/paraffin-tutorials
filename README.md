@@ -18,12 +18,6 @@
 [Instagram]: https://www.instagram.com/paraffin.team/
 [Mail]: mailto:paraffin-team@gmail.com
 
----
-
-<h2> 👑 Owner : </h2>
-<br>  
-![owner](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
-
 --- 
 
 
