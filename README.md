@@ -2,6 +2,7 @@
 
 💡 We Are currently working on cool idea.
 
+---
 
 <h2>💁‍♂️Do you want to support paraffin team ?</h2>
 
