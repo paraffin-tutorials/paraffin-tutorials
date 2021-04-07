@@ -34,3 +34,8 @@ Visitors<br>
 </h3>
 <br>
 <br>  
+
+<br>  
+**👑 Owner** : 
+<br>  
+https://discord.c99.nl/widget/theme-1/488958506280550402.png
